@@ -12,7 +12,7 @@ When your coins are released from their time-lock, their value will be much more
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-# For the next 1 year you can get HEX offically in 1 of two ways.
+# For the next 1 year you can get HEX offically in two ways.
 
 ### What you need to know to get started.
 
@@ -24,4 +24,21 @@ But if you don't have BTC before that timer goes out, the snapshot period will b
 
 Buying HEX with ETH is very straight forward, but how much you recieve reduces by half each day you wait. So it's important you do not wait!
 
+## 1 YEAR LONG HEX RELEASE PARTY STARTS DEC 2nd!!
+### WHEN THE TOKEN RELEASE PARTY WILL ENDS, EXCHANGES WILL BE THE ONLY WAY TO GET HEX.
 
+Each day during the token release party the amount of HEX to be released will cut in half
+
+![Halving](https://hex.works/halving.png)
+
+This means if you wait, you won't be getting much HEX. When you buy HEX with ETH you get a porportional amount of HEX.
+This is easier to explain with an example.
+
+On any given day during the party:
+If 2 People both put 5 ETH in at the same time then they will both get 50% of what's dropped that day.
+If 10 People put 1 ETH in then they will each get 10% of the HEX released that day.
+If 2 People put 1 ETH and 10 ETH in then each get 10% and 90% respectivly of the HEX released that day.
+
+At the end of each day, the hex is dispersed and reset for the next day, but with only half as much HEX.
+
+This means the sooner you get in, the more you will get.
