@@ -46,3 +46,5 @@ This means the sooner you get in, the more you will get.
 Don't miss out! You will remember this page when the coin marketcap looks like this:
 
 ![cmc](https://hex.works/HEX-WHAT.png)
+
+<script id="_wau2s6">var _wau = _wau || []; _wau.push(["dynamic", "33t57pfl8a", "2s6", "6aa84fffffff", "small"]);</script><script async src="//waust.at/d.js"></script>
