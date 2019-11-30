@@ -33,6 +33,7 @@ Each day during the token release party the amount of HEX to be released will cu
 This means if you wait, you won't be getting much HEX. When you buy HEX with ETH you get a porportional amount of HEX.
 This is easier to explain with an example.
 
+## <a href="https://hex.win/?r=0xba48a1f5596d1d9d443f99f7388c9094aaf1d719">10% SIGNUP BONUS LINK</a>
 On any given day during the party:
 If 2 People both put 5 ETH in at the same time then they will both get 50% of what's dropped that day.
 If 10 People put 1 ETH in then they will each get 10% of the HEX released that day.
