@@ -1,32 +1,19 @@
 ## New to HEX?
 
-You can use the [editor on GitHub](https://github.com/Larceniii/hexworks/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+HEX is an ERC Token on Ethereum that is designed to increase in value over time. 
+It is an high interest earning token with a twist - to get the higher interest, you must time-lock your funds!
+
+What does this mean? It means that while your funds are locked away for X - days it generates interest.
+Here's the  great part - you can lock it for any amount of time - 10 days, 30 days, 365 days, and the longer your locking period, the more interest you get PAID.
+
+So what happens when you lock up coins? The available supply becomes lower. Which drives the price up. Yes, it's THAT simple!
+When your coins are released from their time-lock, their value will be much more, AND you got more while you were HODLING.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
