@@ -11,14 +11,17 @@ When your coins are released from their time-lock, their value will be much more
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+# For the next 1 year you can get HEX offically in 1 of two ways.
+
+### What you need to know to get started.
+
+#### Method 1: Claiming free HEX for owning Bitcoin
+If you have BTC in your possesion (Your keys, your BTC; not your keys, not your BTC!) then you can claim some for free anytime in the next year! Simply sign a message using your wallet and the HEX coins go into your HEX wallet. Not even a single satoshi will be spent or transmitted! Completely safe!
+
+#### Method 2: Buy with ETH
+But if you don't have BTC before that timer goes out, the snapshot period will be over and you will have missed the chance to claim some HEX for free. But don't dispair! You can buy HEX anytime within the next year using ETH.
+
+Buying HEX with ETH is very straight forward, but how much you recieve reduces by half each day you wait. So it's important you do not wait!
 
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Larceniii/hexworks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
