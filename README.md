@@ -9,8 +9,6 @@ Here's the  great part - you can lock it for any amount of time - 10 days, 30 da
 So what happens when you lock up coins? The available supply becomes lower. Which drives the price up. Yes, it's THAT simple!
 When your coins are released from their time-lock, their value will be much more, AND you got more while you were HODLING.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 
 # For the next year you can get HEX offically in two ways.
 
