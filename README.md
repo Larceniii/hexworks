@@ -39,4 +39,8 @@ If 2 People put 1 ETH and 10 ETH in then each get 10% and 90% respectivly of the
 
 At the end of each day, the hex is dispersed and reset for the next day, but with only half as much HEX.
 
-This means the sooner you get in, the more you will get.
+This means the sooner you get in, the more you will get. 
+
+Don't miss out! You will remember this page when the coin marketcap looks like this:
+
+![cmc](https://hex.works/HEX-WHAT.png)
