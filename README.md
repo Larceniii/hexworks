@@ -21,7 +21,7 @@ If you have BTC in your possesion (Your keys, your BTC; not your keys, not your 
 #### Method 2: Buy with ETH
 But if you don't have BTC before that timer goes out, the snapshot period will be over and you will have missed the chance to claim some HEX for free. But don't dispair! You can buy HEX anytime within the next year using ETH.
 
-Buying HEX with ETH is very straight forward, but how much you recieve reduces by half each day you wait. So it's important you do not wait!
+Buying HEX with ETH is very straight forward, but how much you recieve is reset but reduces each day you wait. So it's important you do not wait!
 
 ## THE YEAR LONG HEX RELEASE PARTY STARTS ON DEC 2nd!!
 ### WHEN THE PARTY'S OVER EXCHANGES WILL BE THE ONLY WAY TO GET HEX.
