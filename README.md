@@ -26,9 +26,8 @@ Buying HEX with ETH is very straight forward, but how much you recieve is reset 
 ## THE YEAR LONG HEX RELEASE PARTY STARTS ON DEC 2nd!!
 ### WHEN THE PARTY'S OVER EXCHANGES WILL BE THE ONLY WAY TO GET HEX.
 
-Each day during the token release party the amount of HEX to be released will cut in half
+Each day during the token release party the amount of HEX to be released will be reduced in porportion to the amount of BTC claimed and spread across the remaining days. Currently it looks like there's about ~500M new Hex released per day.
 
-![Halving](https://hex.works/halving.png)
 
 This means if you wait, you won't be getting much HEX. When you buy HEX with ETH you get a porportional amount of HEX.
 This is easier to explain with an example.
